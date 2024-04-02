@@ -49,7 +49,7 @@ dependencies {
     //Dagger Hilt
     implementation ("com.google.dagger:hilt-android:2.48")
     kapt ("com.google.dagger:hilt-compiler:2.48")
-    implementation ("androidx.core:core-splashscreen:1.0.1")
+
 
 
     implementation(platform("com.squareup.okhttp3:okhttp-bom:4.12.0"))
